@@ -1,0 +1,4 @@
+name: elasticsearch-user-credentials
+summary: Interface that provides the elastic-user creds.
+version: 1
+repo: https://github.com/omnivector-solutions/elastic-user
